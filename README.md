@@ -1,21 +1,28 @@
-# Merhaba, ben Burcu 👋
+# Hi, I'm Burcu 👋
 
-Frontend geliştirme ile ilgileniyorum. HTML, CSS, JavaScript ve React üzerine çalışıyorum.  
-Kod yazmayı öğrenmeyi, yeni teknolojiler denemeyi ve kullanıcı dostu arayüzler oluşturmayı seviyorum.
+I'm a frontend developer passionate about creating clean and user-friendly web interfaces.  
+I enjoy writing code, learning new technologies, and turning ideas into interactive applications.
 
-## 🚀 Teknolojiler ve Araçlar
+## 🚀 Technologies & Tools
 - HTML
 - CSS
 - JavaScript
 - React
 
-## 📫 Bana Ulaşın
-📧 sevimburcu0@gmail.com  
-🌐 [LinkedIn Profilim](https://www.linkedin.com/in/burcusevim/)  
-💻 [Canlı Projelerim](https://gentle-rugelach-2c1a1e.netlify.app/)
+## 🌐 Live Projects
+-  [Library Management System](https://neon-llama-b6e485.netlify.app/)
+-  [Question App](https://gilded-truffle-693bab.netlify.app/)
+-  [Spend Bill Gates Money](https://fancy-pastelito-b75800.netlify.app/)
+-  [Sport Center](https://gentle-rugelach-2c1a1e.netlify.app/)
 
-## 🎯 Hedefim
-Öğrendiklerimi gerçek projelere dönüştürmek ve bir ekiple birlikte üretmek.
+## 🎯 Goal
+To improve my skills through real-world projects and collaborate within a development team.
+
+## 📫 Contact Me
+📧 sevimburcu0@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/burcusevim/)  
+💻 [GitHub](https://github.com/devburcu)
+
 <!--
 **devburcu/devburcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
